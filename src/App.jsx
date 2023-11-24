@@ -144,7 +144,7 @@ const memberList = useMemo(() => {
         <div className="logo-container">
           <img src={electionCommissionLogo} alt="Election Commission Logo" className="logo" />
         </div>
-        <div className="emblem-container"><img src={indianEmblemImage} alt="Indian Emblem" class="indian_emblem" /></div>
+        <div className="emblem-container"><img src={indianEmblemImage} alt="Indian Emblem" className="indian_emblem" /></div>
         <h1 style={{marginTop:10, marginBottom:10}}>Election Commission of India</h1>
         <h2 style={{marginBottom:50}}>भारत निर्वाचन आयोग</h2>
         <div className="btn-hero">
